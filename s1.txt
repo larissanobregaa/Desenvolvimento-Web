@@ -1,0 +1,16 @@
+
+# Python
+https://www.python.org/
+
+
+# Github
+https://github.com/
+
+
+# VScode
+https://code.visualstudio.com/
+
+
+# SQLitebrowser
+https://sqlitebrowser.org/
+
