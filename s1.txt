@@ -19,3 +19,4 @@ https://sqlitebrowser.org/
 https://www.google.com.br/
 Ele obtém informações de outras partes da web e as exibe em seu computador ou dispositivo móvel.
 
+# Protocolo proprietáio de internet
