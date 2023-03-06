@@ -1,16 +1,21 @@
 
 # Python
 https://www.python.org/
-
+É uma linguagem de programação eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes.
 
 # Github
 https://github.com/
-
+É uma plataforma para gerenciar seu código e criar um ambiente de colaboração.
 
 # VScode
 https://code.visualstudio.com/
-
+É um editor de código-fonte leve, mas poderoso, que é executado na área de trabalho
 
 # SQLitebrowser
 https://sqlitebrowser.org/
+É uma base de dados relacional de código aberto e que dispensa o uso de um servidor na sua atuação. Armazena seus arquivos dentro de sua própria estrutura.
+
+# Navegadores
+https://www.google.com.br/
+Ele obtém informações de outras partes da web e as exibe em seu computador ou dispositivo móvel.
 
