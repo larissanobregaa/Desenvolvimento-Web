@@ -20,4 +20,5 @@ https://www.google.com.br/
 Ele obtém informações de outras partes da web e as exibe em seu computador ou dispositivo móvel.
 
 # Protocolo proprietáio de internet
+NETBIOS, IPX/SPX
  São feitos para ambientes específicos, pois ele apenas pode  comunicar com uma plataforma padrão.
